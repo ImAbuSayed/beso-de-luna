@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beso de luna
+
+This log tracks the cryptographic history and versioning for the song **Beso de luna** (beso-de-luna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T23:11:11.919684 | `v1` | `d3d2fd3325b19b5ea40dbe7342282e2ab58f069e54a4151179dd419e25cb7de1` | `b5792ce0d5d92b62c5eed4cfed338bcaec0721c8cb2f3585356cb2205fa24a57` | `2026-06-22_beso-de-luna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

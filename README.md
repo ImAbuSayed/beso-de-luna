@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Beso de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-luna/) |
+| **Get License** | [Request Licensing for Beso de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d3d2fd3325b19b5ea40dbe7342282e2ab58f069e54a4151179dd419e25cb7de1` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
