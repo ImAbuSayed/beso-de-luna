@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 2e1a24f30171119b5ffa721e44bbb28022a75fa4
+> Quiero probar ese beso de luna
+> Mami, tú brillas y no hay como ninguna
+> Esta noche la disco es nuestra fortuna
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
